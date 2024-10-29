@@ -16,6 +16,18 @@ The project demonstrates:
 - **3D Cube**: A rotating cube built entirely with HTML and CSS, demonstrating CSS `transform` and `perspective` properties.
 - **Responsive Design**: The animation adjusts based on the screen size, making it accessible on different devices.
 
+## Project Structure
+
+```
+3d/
+├── node_modules/         # Node dependencies (if applicable)
+├── README.md             # Project README file
+├── index.html            # Main HTML file
+├── package-lock.json     # NPM auto-generated lock file
+├── package.json          # Project dependencies and metadata
+└── style.css             # CSS for 3D cube styling and animations
+```
+
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
